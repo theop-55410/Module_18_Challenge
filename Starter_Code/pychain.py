@@ -44,7 +44,7 @@ import hashlib
 # 4. Add an attribute named `receiver` of type `str`.
 # 5. Add an attribute named `amount` of type `float`.
 # Note that you’ll use this new `Record` class as the data type of your `record` attribute in the next section.
-
+#Sha comes from the hashlib library and is a scecure hashing algorithm
 
 # @TODO
 # Create a Record Data Class that consists of the `sender`, `receiver`, and
